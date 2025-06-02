@@ -50,3 +50,5 @@ jwt:
   expiry-seconds: 1800
   # TODO: 이건 꼭 바꿔야함
   secret: thisisjusttestaccesssecretsodontworry
+  # 이걸 꼭 바꿔야함??
+  #으아아아아아
